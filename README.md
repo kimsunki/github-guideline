@@ -37,7 +37,8 @@
      git remote set-url origin git@github.com:kowonsik/레포지터리이름.git
    
    < public key error가 발생한 경우 >
-     ubuntu에서 github로 데이터 & 파일을 보낼경우 github로 데이터를 보낼수 있는 접근권한을 가지려면 ssh라고하는 암호화 과정을      거쳐야 하는데 이 과정이 되지 않을 것임
-
-5.
+     ubuntu에서 github로 데이터 & 파일을 보낼경우 github로 데이터를 보낼수 있는 접근권한을 가지려면 ssh라고하는 암호화 과정을      거쳐야 하는데 이 과정이 되지 않을 것임. 그래서 이것을 설정해줘야하는데 밑에 사이트대로 하기~~! 
+     http://uiandwe.tistory.com/992
+     
+     
 
