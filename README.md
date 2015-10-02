@@ -1,5 +1,9 @@
 # github-guideline
 
+1. github 사이트
+   https://desktop.github.com/
+
+2. CentOS
 
 1. github 사용방법
 
